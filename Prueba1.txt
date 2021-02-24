@@ -1,1 +1,1 @@
-Este es el contenido del fichero Prueba1.txt
+He modificado el fichero Prueba1 usando nano!
